@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282333012427",
+    "project_id": "banshara-218a6",
+    "storage_bucket": "banshara-218a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282333012427:android:a46b52f82637d97593964e",
+        "android_client_info": {
+          "package_name": "com.example.banshara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdqCDyYafNFh5oTCEoQxG8jAkJiv4-u-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
