@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052318024150",
+    "project_id": "banshara-c299e",
+    "storage_bucket": "banshara-c299e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052318024150:android:9a770208fbded1b4206477",
+        "android_client_info": {
+          "package_name": "com.example.banshara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbYR9uy7o-fZ7lhmxAlsaKw0SvxfB5xyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
