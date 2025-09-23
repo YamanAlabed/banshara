@@ -13,7 +13,18 @@ class _loginState extends State<login> {
     return Scaffold(
       body: Container(
         child: ListView(children: [
-          Image.asset("images/logo.jpg")
+          Container(height: 50,),
+          Container(
+            child:  Image.asset
+            ("assets/images/logo.png",
+             width:100 ,
+              height: 100,
+              //fit: BoxFit.fill,
+              )),
+                
+                Center(child: Text("login")),
+                Center(child: Text("Login to use app")),
+              
         ],),
       ),
     );
